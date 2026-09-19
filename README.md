@@ -114,4 +114,4 @@ notebooks-python/
 ---
 
 > [!NOTE]
-> Tambien puedes utilizar las notebooks desde Visual Studio Code, abriendo la carpeta del proyecto e instalando las respectivas extensiones de Jupyter Notebook verificadas por Microsoft:
+> Tambien puedes utilizar los notebooks desde Visual Studio Code, abriendo la carpeta del proyecto e instalando las respectivas extensiones de Jupyter Notebook verificadas por Microsoft:
