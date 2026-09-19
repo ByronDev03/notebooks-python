@@ -25,7 +25,7 @@ Los ejercicios están organizados de forma progresiva, comenzando con los fundam
 - Depuración
 
 ## Librerías
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="20"/> **Pandas** — Manipulación y análisis de datos
+- <img src="https://cdn.simpleicons.org/pandas/ffffff" width="20"/> **Pandas** — Manipulación y análisis de datos
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="20"/> **Matplotlib** — Visualización de datos
 
 ## Datos
@@ -64,7 +64,7 @@ notebooks-python/
 ## Tecnologías
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20"/>Python
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="20"/>Jupyter Notebook
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="20"/>Pandas
+- <img src="https://cdn.simpleicons.org/pandas/ffffff" width="20"/>Pandas 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="20"/>Matplotlib
 
 ---
