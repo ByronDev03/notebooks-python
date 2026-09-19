@@ -70,18 +70,48 @@ notebooks-python/
 ---
 
 ## Cómo utilizar los notebooks
-1. Clonar el repositorio
+1. **Clonar el repositorio**
     ```Bash
     git clone https://github.com/ByronDev03/notebooks-python.git
     ```
-2. Entrar al proyecto
+
+2. **Entrar al proyecto**
     ```Bash
     cd notebooks-python
     ```
-3. Instalar Jupyter Notebook
-    - Si aún no tienes Jupyter instalado:
-        ```Bash
-        pip install notebook
-        ``` 
 
-Se abrirá Jupyter en el navegador y podrás seleccionar cualquiera de los notebooks.
+3. **Comprobar que Python esta instalado**
+    ```Bash
+    py --version
+    ```
+
+4. **Instalar Jupyter Notebook**
+    ```Bash
+    pip install notebook
+    ``` 
+
+5. **Comprobar la intalacion de Jupyter Notebook**
+    ```Bash
+    jupyter-notebook --version
+    ```
+6. **Iniciar Jupyter Notebook**
+    - **Desde la carpeta del proyecto ejecutar:**  
+        ```Bash
+        jupyter-notebook
+        ```
+    - **Jupyter Notebook se iniciará y podrás acceder desde el navegador mediante:**
+        ```Bash
+        http://localhost:8888/tree
+        ```
+    Desde allí podrás seleccionar y ejecutar cualquiera de los notebooks disponibles en el repositorio.
+
+> [!NOTE]
+> Si el comando `jupyter-notebook` no está disponible, puedes iniciar Jupyter utilizando Python:
+> ```Bash
+> py -m notebook
+> ```
+
+---
+
+> [!NOTE]
+> Tambien puedes utilizar las notebooks desde Visual Studio Code, abriendo la carpeta del proyecto e instalando las respectivas extensiones de Jupyter Notebook verificadas por Microsoft:
