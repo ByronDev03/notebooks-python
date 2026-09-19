@@ -25,8 +25,8 @@ Los ejercicios están organizados de forma progresiva, comenzando con los fundam
 - Depuración
 
 ## Librerías
-- **Pandas** — Manipulación y análisis de datos
-- **Matplotlib** — Visualización de datos
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="20"/> **Pandas** — Manipulación y análisis de datos
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="20"/> **Matplotlib** — Visualización de datos
 
 ## Datos
 El repositorio también contiene archivos `.csv` utilizados como datos de prueba para algunos ejercicios.
@@ -55,17 +55,17 @@ notebooks-python/
 ├── bancos.csv
 ├── cotizacion.csv
 |
-├── 📜 LICENSE
-└── 📘 README.md
+├── LICENSE
+└── README.md
 ```
 
 ---
 
 ## Tecnologías
-- Python
-- Jupyter Notebook
-- Pandas
-- Matplotlib
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20"/>Python
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="20"/>Jupyter Notebook
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="20"/>Pandas
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="20"/>Matplotlib
 
 ---
 
@@ -82,8 +82,6 @@ notebooks-python/
     - Si aún no tienes Jupyter instalado:
         ```Bash
         pip install notebook
-        ```
-4. Ejecutar Jupyter Notebook
-jupyter notebook
+        ``` 
 
 Se abrirá Jupyter en el navegador y podrás seleccionar cualquiera de los notebooks.
